@@ -1,1 +1,2 @@
-# Adding-images-and-understanding-inheritance
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
